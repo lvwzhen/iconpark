@@ -32,6 +32,7 @@ Collection of iconfonts
 |batch|<http://adamwhitcroft.com/batch/>|
 |weloveiconfonts|<http://weloveiconfonts.com/>|
 |fontdiao|<http://lexrus.github.io/fontdiao/>|
+|forecastfont|<http://forecastfont.iconvau.lt/>|
 
 
 ### Example
