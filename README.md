@@ -28,32 +28,20 @@ Collection of iconfonts
 |weloveiconfonts|<http://weloveiconfonts.com/>|
 |openwebicons|<https://github.com/pfefferle/openwebicons>|
 |webhostinghub-glyphs|<http://webhostinghub.com/glyphs>|
-
-
-| Social icon | URL |
-| ----|--------|
+| **Social icon** | **URL** |
 |social-icon-font|<https://github.com/tombryan/social-icon-font>|
 |stackicons|<https://github.com/parkerbennett/stackicons>|
 |css-social-buttons|<http://zocial.smcllns.com/>|
 |fontdiao|<http://lexrus.github.io/fontdiao/>|
 |RONDO|<http://www.tajfa.com/projects/rondo/>|
-
-
-| Weather icon | URL |
-| ----|--------|
+| **Weather icon** | **URL** |
 |weather-icons|<http://erikflowers.github.io/weather-icons/>|
 |meteocons|<http://www.alessioatzeni.com/meteocons/>|
 |forecastfont|<http://forecastfont.iconvau.lt/>|
-
-
-| Map icon | URL |
-| ----|--------|
+| **Map icon** | **URL** |
 |Map Icons|<http://map-icons.com/>|
 |GeoBats|<http://www.dafont.com/geobats.font>|
-
-
-|iOS 7 icon| URL|
-| ----|--------|
+|**iOS 7 icon**| **URL**|
 |iOS7-icon-font|<http://ios7-icon-font-demo.herokuapp.com/>|
 
 
