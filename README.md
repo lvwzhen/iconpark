@@ -3,7 +3,7 @@ Collection of iconfonts
 
 ### List of iconfonts
 
-| ICONFONT | URL |
+| Complex | URL |
 | ----|--------|
 |Font-Awesome|<http://fortawesome.github.io/Font-Awesome/>|
 |ICONFONT.CN|<http://www.iconfont.cn/>|
@@ -17,22 +17,44 @@ Collection of iconfonts
 |Fontelico|<https://github.com/fontello/fontelico.font>|
 |font-icons|<https://github.com/krisbulman/font-icons>|
 |foundation-icon-fonts|<https://github.com/zurb/foundation-icon-fonts>|
-|social-icon-font|<https://github.com/tombryan/social-icon-font>|
 |mfglabs-iconset|<https://github.com/MfgLabs/mfglabs-iconset>|
 |Flaticon|<http://www.flaticon.com/>|
 |fontastic|<http://fontastic.me/>|
 |typicons|<http://typicons.com/>|
-|iOS7-icon-font|<http://ios7-icon-font-demo.herokuapp.com/>|
-|GeoBats|<http://www.dafont.com/geobats.font>|
-|meteocons|<http://www.alessioatzeni.com/meteocons/>|
 |websymbols|<http://www.justbenice.ru/studio/websymbols/>|
 |entypo|<http://www.entypo.com/>|
 |Raphaël Icon-Set|<http://icons.marekventur.de/>|
-|RONDO|<http://www.tajfa.com/projects/rondo/>|
 |batch|<http://adamwhitcroft.com/batch/>|
 |weloveiconfonts|<http://weloveiconfonts.com/>|
+|openwebicons|<https://github.com/pfefferle/openwebicons>|
+|webhostinghub-glyphs|<http://webhostinghub.com/glyphs>|
+
+
+| Social icon | URL |
+| ----|--------|
+|social-icon-font|<https://github.com/tombryan/social-icon-font>|
+|stackicons|<https://github.com/parkerbennett/stackicons>|
+|css-social-buttons|<http://zocial.smcllns.com/>|
 |fontdiao|<http://lexrus.github.io/fontdiao/>|
+|RONDO|<http://www.tajfa.com/projects/rondo/>|
+
+
+| Weather icon | URL |
+| ----|--------|
+|weather-icons|<http://erikflowers.github.io/weather-icons/>|
+|meteocons|<http://www.alessioatzeni.com/meteocons/>|
 |forecastfont|<http://forecastfont.iconvau.lt/>|
+
+
+| Map icon | URL |
+| ----|--------|
+|Map Icons|<http://map-icons.com/>|
+|GeoBats|<http://www.dafont.com/geobats.font>|
+
+
+|iOS 7 icon| URL|
+| ----|--------|
+|iOS7-icon-font|<http://ios7-icon-font-demo.herokuapp.com/>|
 
 
 ### Example
