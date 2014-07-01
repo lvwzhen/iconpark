@@ -31,6 +31,7 @@ Collection of iconfonts
 |RONDO|<http://www.tajfa.com/projects/rondo/>|
 |batch|<http://adamwhitcroft.com/batch/>|
 |weloveiconfonts|<http://weloveiconfonts.com/>|
+|fontdiao|<http://lexrus.github.io/fontdiao/>|
 
 
 ### Example
