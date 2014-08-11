@@ -41,6 +41,8 @@ Collection of iconfonts
 | **Map icon** | **URL** |
 |Map Icons|<http://map-icons.com/>|
 |GeoBats|<http://www.dafont.com/geobats.font>|
+|EyesAsia|<http://haoyunsu.com/posts/EyesAsiaChinese.html>|
+|stateface|<http://propublica.github.io/stateface/>|
 |**iOS 7 icon**| **URL**|
 |iOS7-icon-font|<http://ios7-icon-font-demo.herokuapp.com/>|
 |7-stroke|<http://themes-pixeden.com/font-demos/7-stroke/index.html>|
