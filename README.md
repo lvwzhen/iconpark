@@ -11,9 +11,9 @@ Collection of iconfonts
 |fontello|<http://fontello.com/>|
 |Iconic|<https://useiconic.com/open/>|
 |ionicons|<http://ionicons.com/>|
-|icomoon|<http://icomoon.io/>|
+|icomoon|<https://icomoon.io/>|
 |Font Custom|<http://fontcustom.com/>|
-|elusive-iconfont|<https://github.com/aristath/elusive-iconfont>|
+|elusive-iconfont|<https://github.com/reduxframework/elusive-iconfont>|
 |Fontelico|<https://github.com/fontello/fontelico.font>|
 |font-icons|<https://github.com/krisbulman/font-icons>|
 |foundation-icon-fonts|<https://github.com/zurb/foundation-icon-fonts>|
@@ -23,11 +23,11 @@ Collection of iconfonts
 |typicons|<http://typicons.com/>|
 |websymbols|<http://www.justbenice.ru/studio/websymbols/>|
 |entypo|<http://www.entypo.com/>|
-|Raphaël Icon-Set|<http://icons.marekventur.de/>|
+|Raphaël Icon-Set|<http://icons.marekventur.com>|
 |batch|<http://adamwhitcroft.com/batch/>|
 |weloveiconfonts|<http://weloveiconfonts.com/>|
 |openwebicons|<https://github.com/pfefferle/openwebicons>|
-|webhostinghub-glyphs|<http://webhostinghub.com/glyphs>|
+|webhostinghub-glyphs|<http://www.webhostinghub.com/glyphs/>|
 | **Social icon** | **URL** |
 |social-icon-font|<https://github.com/tombryan/social-icon-font>|
 |stackicons|<https://github.com/parkerbennett/stackicons>|
