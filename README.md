@@ -28,6 +28,7 @@ Collection of iconfonts
 |weloveiconfonts|<http://weloveiconfonts.com/>|
 |openwebicons|<https://github.com/pfefferle/openwebicons>|
 |webhostinghub-glyphs|<http://www.webhostinghub.com/glyphs/>|
+|Icons8|<https://icons8.com/>|
 | **Social icon** | **URL** |
 |social-icon-font|<https://github.com/tombryan/social-icon-font>|
 |stackicons|<https://github.com/parkerbennett/stackicons>|
